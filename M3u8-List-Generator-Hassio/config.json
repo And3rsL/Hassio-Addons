@@ -1,6 +1,6 @@
 {
   "name": "M3U8 List generator [Italy]",
-  "version": "1",
+  "version": "1.0.1",
   "slug": "m3u8",
   "description": "Generates M3u8 List for most popular italian channels",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
